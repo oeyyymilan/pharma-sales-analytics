@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp files (keep the .pbix itself)
+*.pbi*.tmp
+~$*
+
+# Local DB dumps
+*.sqlite
+*.dump

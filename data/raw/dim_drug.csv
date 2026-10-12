@@ -1,0 +1,19 @@
+drug_id,drug_name,category,unit_price
+1,Paracetamol 500,Analgesic,12.0
+2,Ibuprofen 400,Analgesic,18.0
+3,Diclofenac 50,Analgesic,22.0
+4,Amoxicillin 500,Antibiotic,65.0
+5,Azithromycin 250,Antibiotic,95.0
+6,Ciprofloxacin 500,Antibiotic,80.0
+7,Metformin 500,Antidiabetic,28.0
+8,Glimepiride 2,Antidiabetic,45.0
+9,Insulin Glargine,Antidiabetic,780.0
+10,Amlodipine 5,Cardiovascular,30.0
+11,Atorvastatin 10,Cardiovascular,55.0
+12,Telmisartan 40,Cardiovascular,70.0
+13,Omeprazole 20,Gastrointestinal,35.0
+14,Pantoprazole 40,Gastrointestinal,48.0
+15,Cetirizine 10,Antihistamine,15.0
+16,Montelukast 10,Respiratory,85.0
+17,Salbutamol Inhaler,Respiratory,140.0
+18,Vitamin D3 60K,Supplement,40.0
